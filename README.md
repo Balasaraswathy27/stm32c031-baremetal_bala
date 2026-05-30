@@ -22,6 +22,11 @@ All code is written with a focus on:
 * Development Style: Bare-metal / Register-level programming
 * Simulation: Wokwi
 
+## Project Structure
+* GPIO_LED
+* GPIO_PUSHBUTTON
+* EXTI_INTERRUPT
+* SYSTICK_TIMER
 
 ## Purpose
 
