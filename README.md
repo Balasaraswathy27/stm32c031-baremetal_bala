@@ -27,6 +27,9 @@ All code is written with a focus on:
 * GPIO_PUSHBUTTON
 * EXTI_INTERRUPT
 * SYSTICK_TIMER
+* UART
+* TIMER
+* SPI_driver
 
 ## Purpose
 
